@@ -1,5 +1,4 @@
-=======================================
-     Software Engineering Project
+Software Engineering Project:
   Password manager mobile application
 =======================================
 ************* Group Member *************
@@ -66,11 +65,11 @@ Customer:
 *********** What will we use ***********
 
 For now, we are planning to use:
-• Java programming language.
-• Kotlin
+- Java programming language.
+- Kotlin
 
 Some software may help us to build our project
 into a .apk file:
-• Altova
-• appsgeyser
-• Unity
+- Altova
+- appsgeyser
+- Unity
